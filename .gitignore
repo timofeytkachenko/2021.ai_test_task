@@ -2,5 +2,7 @@
 catboost_info/
 
 catboost_model.cbm
+shap_values.jbl
+test_task.py
 *.csv
 *.txt
