@@ -1,4 +1,5 @@
 .idea/
+.ipynb_checkpoints/
 catboost_info/
 
 catboost_model.cbm
